@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "534491695857",
+    "firebase_url": "https://mlab-2464e.firebaseio.com",
+    "project_id": "mlab-2464e",
+    "storage_bucket": "mlab-2464e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534491695857:android:3bdfd3c595b7f097",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.mlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534491695857-trk5u31o0j4gkbblqa3ecdjdma1k8pci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.mlab",
+            "certificate_hash": "5bc860a40cebb196af4679744a4bfb42387d333d"
+          }
+        },
+        {
+          "client_id": "534491695857-nggljfi4ikvqp0lurerteu2h5ai1ih77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Qi0gXIffjobjHrtYBvvrm8Inhzk1ws0"
+        },
+        {
+          "current_key": "AIzaSyDkK3lbjI9KFn2nQHkBVP8Muf1yMVH3zR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534491695857-nggljfi4ikvqp0lurerteu2h5ai1ih77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534491695857:android:89546ce74da4cd73",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.thebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534491695857-te21c1sa01dufhg8rmk7e9ljmed84vbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.thebook",
+            "certificate_hash": "7d5963ed5f1384131b4d8bd1e4204a2e4b1722b8"
+          }
+        },
+        {
+          "client_id": "534491695857-nggljfi4ikvqp0lurerteu2h5ai1ih77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Qi0gXIffjobjHrtYBvvrm8Inhzk1ws0"
+        },
+        {
+          "current_key": "AIzaSyDkK3lbjI9KFn2nQHkBVP8Muf1yMVH3zR8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534491695857-nggljfi4ikvqp0lurerteu2h5ai1ih77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
